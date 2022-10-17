@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Costa Calida",
+    "desc": "The tourist board of Murcia\n Design and implement a custom landing page in Swedish for a campaign targeted at Swedish tourists. The design should be modern, spacious and mobile friendly.",
+    "image": "costacalida",
+    "category": "web",
+    "links": {
+      "view": "https://www.murciaturistica.es/se/index.html",
+      "code": "https://github.com/vegasguille7/CostaCalida"
+    }
+  },
+  {
+    "name": "Luxury Stays",
+    "desc": "A company website that provides luxury accommodation search services in Dubai.",
+    "image": "luxurystays",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vegasguille7/LuxuryStays"
+    }
+  },
+  {
+    "name": "Seqos",
+    "desc": "Seqos is a partner to companies looking for a successor and to individuals wanting to acquire their first business.",
+    "image": "seqos",
+    "category": "web",
+    "links": {
+      "view": "https://www.seqoscapital.com/",
+      "code": "https://github.com/vegasguille7/Seqos"
+    }
+  },
+  {
+    "name": "Unique Travel",
+    "desc": "Unique Travel, is a travel agency located in Denmark which is specialized in helping clients to plan and organize custom holidays to different places of the world.",
+    "image": "uniquetravel",
+    "category": "web",
+    "links": {
+      "view": "https://www.uniquetravel.dk/",
+      "code": "https://github.com/vegasguille7/UniqueTravel"
+    }
+  },
+  {
+    "name": "DaBiscuits Web App",
+    "desc": "DaBiscuit healthy cookie which cares about user's body and mind",
+    "image": "dabiscuits",
+    "category": "web",
+    "links": {
+      "view": "https://www.dabiscuit.no/",
+      "code": "https://github.com/vegasguille7/DaBiscuits"
+    }
+  },
+  {
+    "name": "Bones Cola",
+    "desc": "Functional online craft store from Kyiv. Developed with React & Node.JS",
+    "image": "bonescola",
+    "category": "web",
+    "links": {
+      "view": "https://bonescola.com/",
+      "code": "https://github.com/vegasguille7/BonesCola"
+    }
+  },
+  {
+    "name": "Alpine Transfer",
+    "desc": "Company provides a luxury transportation service from popular airports in Switzerland and France.",
+    "image": "alpinetransfer",
+    "category": "web",
+    "links": {
+      "view": "https://www.alpinetransfer.ch/",
+      "code": "https://github.com/vegasguille7/AlpineTransfer"
+    }
+  },
+  {
+    "name": "Kadira",
+    "desc": "Kadira is a professional carpet & upholstery cleaning company, specialized working on yachts and villas.",
+    "image": "kadira",
+    "category": "web",
+    "links": {
+      "view": "https://www.yachtcleaning-villa.com/",
+      "code": "https://github.com/vegasguille7/Kadira"
+    }
+  },
+  {
+    "name": "BestCaptial",
+    "desc": "Real Estate Platform",
+    "image": "bestcaptial",
+    "category": "web",
+    "links": {
+      "view": "https://bestcapital.am/",
+      "code": "https://github.com/vegasguille7/BestCaptial"
+    }
+  },
+  {
+    "name": "DAO Factory Smart Contracts",
+    "desc": "DAO-controlled crowdfunding platform for projects and ideas that can build a better tomorrow. It was built to give everybody a meaningful voice in the shape of their future.",
+    "image": "daofactorysmartcontracts",
+    "category": "blockchain",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vegasguille7/DAO-Factory-Smart-Contracts"
+    }
+  },
+  {
+    "name": "NFT Based Web3 Game",
+    "desc": "An NFT project developing a hybrid Web2/Web3 MMORPG.",
+    "image": "nftweb3game",
+    "category": "blockchain",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vegasguille7/NFT-Based-Web3-Game"
+    }
+  },
+  {
+    "name": "Locals Discount Payments Network",
+    "desc": "A mobile application and payments network, aimed at creating flourishing local communities in tourist hotspots.",
+    "image": "localdiscountpayments",
+    "category": "mobile",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Blockchain Digital Health Records",
+    "desc": "Blockchain Digital Health Solution for patient medical records.",
+    "image": "cryptodigialhealth",
+    "category": "mobile",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
